@@ -12,6 +12,7 @@ tables, Cause-Effect graphs.
 - [White Box Testing (1)](whitebox.pdf): CFGs, all nodes, all decisions,
 multiple conditions, MC/DC.
 - [White Box Testing (2)](whitebox-suite.pdf): DFGs, all-defs, all-uses, all-du.
+- [Mutation testing](mutation.pdf): Mutation testing.
 
 ## Using these slides
 
