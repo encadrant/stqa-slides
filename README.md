@@ -6,6 +6,7 @@ _work in progress_, and I'll strive to improve them. If you spot any mistake
 
 ## Content
 
+- [Analyse Statique](static_analysis.pdf): Statis Analysis. :new:
 - [Black Box Testing (1)](blackbox.pdf): Equivalence partitionning, BVA
 - [Black Box Testing (2)](blackbox-suite.pdf): Combinatorial testing, decision
 tables, Cause-Effect graphs.
@@ -13,6 +14,7 @@ tables, Cause-Effect graphs.
 multiple conditions, MC/DC.
 - [White Box Testing (2)](whitebox-suite.pdf): DFGs, all-defs, all-uses, all-du.
 - [Mutation testing](mutation.pdf): Mutation testing.
+- [CMMI Model](cmmi.pdf): CMMI Model. :new:
 
 ## Using these slides
 
