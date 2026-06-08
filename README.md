@@ -15,6 +15,7 @@ multiple conditions, MC/DC.
 - [White Box Testing (2)](whitebox-suite.pdf): DFGs, all-defs, all-uses, all-du.
 - [Mutation testing](mutation.pdf): Mutation testing.
 - [CMMI Model](cmmi.pdf): CMMI Model. :new:
+- [Exam Solution](corrige_emd_tlaq2526.pdf): Corrrigé-type EMD 2526 :new:
 
 ## Using these slides
 
